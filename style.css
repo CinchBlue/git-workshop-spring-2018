@@ -2,7 +2,7 @@
     background-image: url('http://cdn.wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-2.jpg')
 }
 
-#title-text {
+.text {
     text-align: center;
     color: yellow;
 }
